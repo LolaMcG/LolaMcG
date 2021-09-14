@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate frontend developer from Scotland</h3>
+<h3 align="center">An aspiring frontend developer from Scotland</h3>
 
 - 🔭 I’m currently working on **Leeds Uni intro to coding**
 
