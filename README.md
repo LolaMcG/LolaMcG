@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">An aspiring frontend developer from Scotland</h3>
 
-- 🔭 I’m currently working on **Leeds Uni intro to coding**
+- 🔭 I’m currently working on **CodeClan Software Development Course**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning ****
 
 
 <h3 align="left">Languages and Tools:</h3>
